@@ -13,3 +13,7 @@ img {
 .broc {
     background-color: red;
 }
+/* this is using id*/
+#heading {
+    color:aqua;
+}
