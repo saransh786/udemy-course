@@ -1,6 +1,10 @@
 body {
     background-color:bisque;
 }
+/* this is usage of pseudo class */
+img:hover {
+    background-color: gold;
+}
 /*
 img {
     background-color:brown;
